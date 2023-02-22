@@ -46,14 +46,14 @@ We can observe that Fog and Humidity are negatively correlated with Temperature
 We can clearly observe that data has seasonality in it.
 To userstand more about data, perform Dickey Fuller Test
 
-Results of Dickey Fuller Test:
-Test Statistic               	 	       -7.165748e+00
-p-value                        			2.889533e-10
-no. of Lags Used               		3.600000e+01
-Number of Observations Used       7.443000e+03
-Critical Value (1%)           		-3.431229e+00
-Critical Value (5%)           		-2.861928e+00
-Critical Value (10%)          		-2.566977e+00
+Results of Dickey Fuller Test:<br>
+Test Statistic               	 	       -7.165748e+00<br>
+p-value                        			2.889533e-10<br>
+no. of Lags Used               		3.600000e+01<br>
+Number of Observations Used       7.443000e+03<br>
+Critical Value (1%)           		-3.431229e+00<br>
+Critical Value (5%)           		-2.861928e+00<br>
+Critical Value (10%)          		-2.566977e+00<br>
 
 
 ## Model architecture to forecast the teperature
